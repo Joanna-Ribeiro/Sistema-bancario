@@ -5,7 +5,7 @@ Este projeto inicial servirá como piloto, com planos de implementar funcionalid
 ### 1. Criação de contas bancárias:
 
 <div align="center">
-<img src="![Screenshot from 2023-10-03 21-35-20](https://github.com/cubos-academy/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t09/assets/122992689/8c429e9a-12a8-4084-b8f4-198cfab05156)" width="700px" />
+<img src="![Screenshot from 2023-10-03 21-35-20](https://github.com/cubos-academy/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t09/assets/122992689/8c429e9a-12a8-4084-b8f4-198cfab05156.png)" width="700px" />
 </div>
 
 ### 2. Listar Contas:
