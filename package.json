@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "name": "ladybug---sistema-bancario",
+  "description": "Este projeto inicial servirá como piloto, com planos de implementar funcionalidades adicionais no futuro. Portanto, os dados essenciais do banco, como nome e agência, serão imutáveis. Meu papel consiste em construir uma RESTful API robusta que permita aos usuários: criar contas bancárias, listar suas contas existentes, atualizar informações de suas contas, excluir contas quando necessário, efetuar depósitos, realizar saques, transferir valores entre contas, verificar o saldo disponível e emitir extratos bancários de forma eficiente e segura.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
