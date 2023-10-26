@@ -1,6 +1,6 @@
 # 🐞 Ladybug Bank
 
-Este projeto inicial servirá como piloto, com planos de implementar funcionalidades adicionais no futuro. Portanto, os dados essenciais do banco, como nome e agência, serão imutáveis. Meu papel consiste em construir uma RESTful API robusta que permita aos usuários: criar contas bancárias, listar suas contas existentes, atualizar informações de suas contas, excluir contas quando necessário, efetuar depósitos, realizar saques, transferir valores entre contas, verificar o saldo disponível e emitir extratos bancários de forma eficiente e segura.
+RESTful API que permite aos usuários: criar contas bancárias, listar suas contas existentes, atualizar informações de suas contas, excluir contas quando necessário, efetuar depósitos, realizar saques, transferir valores entre contas, verificar o saldo disponível e emitir extratos bancários de forma eficiente e segura.
 
 ### 1. Criação de contas bancárias:
 
